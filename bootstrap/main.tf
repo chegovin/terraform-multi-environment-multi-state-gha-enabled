@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "tfstate" {
-  bucket = "vivek-234121221-rrn"
+  bucket = "bgc-234121221-rrn"
 }
 
 resource "aws_s3_bucket_versioning" "tfstate" {
